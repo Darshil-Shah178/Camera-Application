@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="filepath_of_the_picture">Filepath of the picture</string>
+</resources>
